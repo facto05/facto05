@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @facto05
 - 👀 I’m interested in mobile programming and web developer
-- 🌱 I’m currently learning react js and react native, flutter
+- 🌱 I’m currently asssign as mobile app developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fadhilocto@gmail.com
 
